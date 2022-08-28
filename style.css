@@ -1,0 +1,196 @@
+.prename {
+    float: right;
+    padding-top: 181px;
+    margin-right: 100px;
+    font-size: xx-large;
+}
+
+#name {
+    color: #fff;
+}
+
+.precolor1 {
+    color: aqua;
+    font-size: 50;
+}
+
+.precolor2 {
+    color: rgb(255 96 96);
+}
+
+.myimg {
+    margin-right: 0px;
+    padding-top: 110px;
+    margin-left: -1280px;
+}
+
+.name {
+    
+    padding: 0px;
+    margin-right: 511px;
+}
+
+body {
+    background-color: #223367;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+li {
+    display: inline;
+    float: left;
+    margin-left: 40px;
+    margin-top: 18px;
+}
+
+a {
+    display: block;
+    font-size: x-large;
+    color: #ffaa00;
+}
+
+.Navbar {
+    margin-left: 720px;
+}
+
+a:hover {
+    color: #deff25;
+    cursor: pointer;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    color: #ffaa00;
+    padding-top: 620px;
+}
+
+.classx {
+    float: left;
+    font-size: 20px;
+    margin-left: 280px;
+    text-align: center;
+}
+
+.main {
+    color: #ffaa00;
+}
+
+.personalinfo {
+    text-decoration: none;
+    float: left;
+    margin-left: 380px;
+    margin-right: 250px;
+}
+
+.flex {
+    display: flex;
+}
+
+.inline1 {
+    margin-left: 142px;
+}
+
+.inline2 {
+    margin-left: 165px;
+}
+
+.inline3 {
+    margin-left: 116px;
+}
+
+.inline4 {
+    margin-left: 60px;
+}
+
+.inline5 {
+    margin-left: 140px;
+    display: inline;
+}
+
+.inlinel {
+    margin-left: 90px;
+}
+
+#skills {
+    padding-top: 400px;
+    
+}
+.skiltitle{
+    font-size: xx-large;
+}
+
+.skills {
+    margin-left: -620px;
+}
+.logo{
+    float: left;
+    margin-left: -1270px;
+    font-size: 80px;
+    margin-top: -5px;
+    color:rgb(255, 255, 255);
+}
+h1,h2,h3,h4,p{
+    color: white;
+}
+#orange{
+    color: #ffaa00;
+}
+.skillele{
+    margin-left: 860px;
+    text-align: left;
+}
+.techele{
+    margin-left: 860px;
+    text-align: left;
+}
+.techtitle{
+    margin-left: 858px;
+    font-size: xx-large;
+}
+.techskill{
+    margin-left: 583px;
+    margin-top: -384px;
+}
+
+
+.navblur{
+    height: 92px;
+    background: #243773;
+}
+.edu {
+    margin-top: -181px;
+}
+
+
+
+
+
+footer .bottom-details{
+    width: 100%;
+    background: #0F0844;
+  }
+  footer .bottom-details .bottom_text{
+    max-width: 1250px;
+    margin: auto;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .bottom-details .bottom_text span,
+  .bottom-details .bottom_text a{
+    font-size: 14px;
+    font-weight: 300;
+    color: #fff;
+    opacity: 0.8;
+    text-decoration: none;
+    margin-left: 500px;
+  }
+  .bottom-details .bottom_text a:hover{
+    opacity: 1;
+    text-decoration: underline;
+  }
+  .bottom-details .bottom_text a{
+    margin-right: 10px;
+  }
